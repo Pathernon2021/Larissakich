@@ -28,6 +28,7 @@ I have experience in the area of industrial electricity (electrician assistant),
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
 <br/>
 <br/>
 
